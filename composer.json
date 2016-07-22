@@ -10,6 +10,7 @@
             "email": "greeschenko@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": "*",
         "bower-asset/jquery.constructive": "dev-master"
