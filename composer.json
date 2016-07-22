@@ -13,7 +13,7 @@
     "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/jquery.constructive": "dev-master"
+        "bower-asset/jquery.constructive": ">=0.0.12"
     },
     "autoload": {
         "psr-4": {
